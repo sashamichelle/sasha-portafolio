@@ -93,3 +93,36 @@ footer.page-footer {
 .saber-mas{
  text-align: justify; 
 }
+
+.nombre{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.user-1{
+  width:100%;
+}
+.user-2{
+width: 100%;
+}
+.user-3{
+  width: 100%;
+}
+
+.segunda{
+  width: 100%;
+  background-color: #A5ECD7;
+}
+.quien{
+  width:90%;
+}
+
+.como{
+  width:90%;
+}
+
+.porque{
+  width: 90%;
+}
+
+.escrito{
+  text-align: justify;
+}
