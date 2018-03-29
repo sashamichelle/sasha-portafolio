@@ -167,3 +167,22 @@ width: 100%;
   color:#333333;
   text-align: center;
 }
+
+.invision{
+  width: 50%;
+  margin-left: 20%;
+}
+
+.marvel{
+  width: 50%;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.todos{
+  width: 70%;
+  margin-left: 15%;
+}
+.area{
+  height: 70vh;
+}
