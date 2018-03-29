@@ -126,3 +126,44 @@ width: 100%;
 .escrito{
   text-align: justify;
 }
+
+.todo{
+  color:#333333;
+}
+.imagen-1{
+  width: 100%;
+}
+
+.bajada{
+  text-align: center;
+}
+
+.personas{
+ text-align: justify;
+}
+
+.como{
+  width: 70%;
+  margin-left: 15%;
+}
+
+.tel-1{
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+.tel-2{
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+.tel-3{
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+
+.titulo{
+  color:#333333;
+  text-align: center;
+}
