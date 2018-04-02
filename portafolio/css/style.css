@@ -186,3 +186,15 @@ width: 100%;
 .area{
   height: 70vh;
 }
+.sasha{
+  width: 70%;
+  margin-left: 13%;
+  border-radius:100%;
+  border:1px solid black;
+  margin-bottom: 10%;
+}
+
+.redes{
+  background-color:#ffffff;
+  line-height: 15%;
+}
